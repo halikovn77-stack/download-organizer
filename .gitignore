@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Логи
+*.log
+organizer.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Настройки (у каждого свои)
+config.json
+
+# Временные файлы браузеров
+*.crdownload
+*.part
+*.tmp

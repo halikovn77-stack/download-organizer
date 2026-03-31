@@ -1,0 +1,7 @@
+{
+    "Изображения": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp"],
+    "Документы": [".pdf", ".docx", ".txt", ".xlsx", ".pptx", ".rtf", ".odt"],
+    "Архивы": [".zip", ".7z", ".rar", ".tar", ".gz", ".bz2"],
+    "Видео": [".mp4", ".mkv", ".avi", ".mov", ".wmv", ".flv"],
+    "Музыка": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".m4a"]
+}
