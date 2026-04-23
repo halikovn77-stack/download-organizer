@@ -28,7 +28,7 @@ python3 --version
 ### 2. Скачайте проект
 
 ```bash
-git clone https://github.com/ВАШ_НИК/download-organizer.git
+git clone https://github.com/halikovn77-stack/download-organizer.git
 cd download-organizer
 ```
 
